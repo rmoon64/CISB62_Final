@@ -27,5 +27,4 @@
 
 ## Next, I cleaned the data and defined the parameters and placeholders.
 
-## Lastly, I got the scores and recommendations for Chris.
-
+## Finally, I got the scores and recommendations for Chris.
